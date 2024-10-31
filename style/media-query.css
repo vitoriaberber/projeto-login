@@ -1,0 +1,67 @@
+@media screen and (width <= 1250px){
+    .principal {
+        width: 30%;
+        height: 57%;
+    }
+    .formulario__titulo {
+        padding: 7%;
+    }
+}
+
+@media screen and (width <= 1000px) {
+    body {
+        background: var(--cor-secundaria);
+    }
+    .principal {
+        width: 50%;
+        height: 65%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+}
+
+@media screen and (width <= 750px) {
+    body {
+        background: var(--cor-secundaria);
+    }
+    .principal {
+        width: 70%;
+        height: 72%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+}
+
+@media screen and (width <= 650px) {
+    body {
+        background: var(--cor-secundaria);
+    }
+    .principal {
+        width: 70%;
+        height: 62%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+    .form__input::placeholder{ 
+        font-size: 1rem;
+    }
+}
+
+@media screen and (width <= 450px) {
+    body {
+        background: var(--cor-secundaria);
+    }
+    .principal {
+        width: 70%;
+        height: 50%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%)
+    }
+    .form__input::placeholder{ 
+        font-size: .9rem;
+    }
+}
