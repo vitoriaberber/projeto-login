@@ -1,7 +1,7 @@
 @media screen and (width <= 1250px){
     .principal {
         width: 30%;
-        height: 60%;
+        height: 57%;
     }
     .formulario__titulo {
         padding: 7%;
@@ -14,7 +14,7 @@
     }
     .principal {
         width: 50%;
-        height: 80%;
+        height: 65%;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%)
@@ -27,7 +27,7 @@
     }
     .principal {
         width: 70%;
-        height: 90%;
+        height: 72%;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%)
@@ -40,7 +40,7 @@
     }
     .principal {
         width: 70%;
-        height: 90%;
+        height: 62%;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%)
@@ -56,7 +56,7 @@
     }
     .principal {
         width: 70%;
-        height: 60%;
+        height: 50%;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%)
