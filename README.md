@@ -1,2 +1,2 @@
 # projeto-login
- Página de login feita com HTML e CSS
+ Página de login responsiva feita com HTML e CSS
